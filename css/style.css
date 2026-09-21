@@ -406,7 +406,7 @@ float:left;
   margin: 50px auto;
 }
 .background-image{
-    background-image: url('../images/256ba9d48808a8feca8484af4ce2752d.jpg');
+    background-image: url('./images/256ba9d48808a8feca8484af4ce2752d.jpg');
     background-attachment:fixed;
     background-size: cover;
     background-repeat: no-repeat;
